@@ -92,8 +92,8 @@
                         <h2>1，精通PS图片处理技术</h2>
                         <h2>2、精通视频剪辑</h2>
                         <h2>3、精通数据结构以及计算机组成原理</h2>
-                        <h2>4、精通C、C++、Java、C#、python</h2>
-                        <h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp等高级语言并参与相关项目开发</h2>
+                        <h2>4、精通C、C++、Java、C#、python</h2>，<br/>
+                        <h2>等高级语言并参与相关项目开发</h2>
                         
                     </div>
             		
@@ -162,16 +162,7 @@
             
            
         </tr>
-        <tr id="post-row-10310020">
-            <td class="post-title"><a href="https://www.cnblogs.com/2016-zck/p/10310020.html" id="post_title_link_10310020">Centos6.5修改mysql登陆用户密码</a>（2019-01-23 16:59）</td>
-            
-           
-        </tr>
-        <tr id="post-row-10309887" class="alt">
-            <td class="post-title"><a href="https://www.cnblogs.com/2016-zck/p/10309887.html" id="post_title_link_10309887">Windos下navcat连接虚拟机中的mysql</a>（2019-01-23 16:43）</td>
-           
-            
-        </tr>
+        
     </tbody></table>
                         
                     </div>
