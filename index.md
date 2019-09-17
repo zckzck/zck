@@ -1,4 +1,3 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -92,7 +91,7 @@
                         <h2>1，精通PS图片处理技术</h2>
                         <h2>2、精通视频剪辑</h2>
                         <h2>3、精通数据结构以及计算机组成原理</h2>
-                        <h2>4、精通C、C++、Java、C#、python</h2>，<br/>
+                        <h2>4、精通C、C++、Java、C#、python</h2><br/>
                         <h2>等高级语言并参与相关项目开发</h2>
                         
                     </div>
